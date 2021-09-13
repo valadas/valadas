@@ -17,8 +17,8 @@ My name is Daniel Valadas, I am a freelance software developer since I was in my
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valadas&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valadas)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valadas&theme=dark)
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=valadas)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valadas&theme=dark)](https://git.io/streak-stats)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=valadas&margin-w=8&column=4&theme=darkhub&no-frame=true)
