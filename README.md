@@ -22,3 +22,5 @@ My name is Daniel Valadas, I am a freelance software developer since I was in my
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valadas&theme=dark)](https://git.io/streak-stats)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=valadas&margin-w=8&column=4&theme=darkhub&no-frame=true)
+
+[![An image of @valadas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/valadas)](https://holopin.io/@valadas)
